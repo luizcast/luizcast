@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luizcast
-- 👀 I’m interested in learn how to code
+- 👀 I’m interested in learn data science
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate R , linux
+- 💞️ I’m looking to collaborate R , linux, SQL, python
 - 📫 How to reach me luizfpc@gmail.com
 
 <!---
