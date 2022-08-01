@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luizcast - Luiz Castiglioni
-- 👀 I’m interested in learn Data Science
-- 🌱 I’m currently learning R
+- 👀 I’m learning Data Science
+- 🌱 I’m currently in love with R
 - 💞️ I’m looking to collaborate R , linux, SQL, python
 - 📫 How to reach me luizfpc@gmail.com
 
