@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luizcast - Luiz Castiglioni
-- 👀 I’m learning Data Science
+- 👀 I’m Data Science / Researcher / Photographer
 - 🌱 I’m currently in love with Visual Computing
-- 💞️ I’m looking to collaborate R , linux, sql, python, arduino
+- 💞️ I’m looking to collaborate with R , Shell, SQL, python, arduino.
 - 📫 How to reach me luizfpc@gmail.com
 
 <!---
